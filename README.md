@@ -38,7 +38,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 ### Kaggle 20 Days of ML
 **Description:** 20 days of Machine Learning by [Kaggle](https://www.kaggle.com/learn/). Kaggle 30 Days of ML처럼 정규 프로그램은 아니지만 데이터를 다루고 머신 러닝 모델을 구축을 빠르게 배우는데 필수적인 기술을 배울수 있는 강좌들을 모았습니다.\
-**Repository:** 과정을 진행한 Google Colab이 있는 repository를 확인하세요 ---> [go to repo..](https://github.com/nktnlx/kaggle_30_Days_of_ML)  
+**Repository:** 과정을 진행한 Google Colab이 있는 repository를 확인하세요 ---> [go to repo..](https://github.com/sexymonster/Kaggle_20_Days_ML)  
 **Status:** 진행중 (수료증은 아래의 certificates section을 확인해주세요).
 
 ### Tableau Vizzes
